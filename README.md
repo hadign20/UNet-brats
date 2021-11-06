@@ -6,3 +6,6 @@ Brain tumor segmentation using UNet
 
 
 ![image](https://user-images.githubusercontent.com/24352869/140626713-655b5b4c-5d28-42d0-9010-017888c1d85c.png)
+
+
+
